@@ -1,0 +1,4 @@
+{"nome":"Marca Exemplo","dominio":"marcaexemplo.com.br","status":"Identidade visual",
+ "descricao":"Uma frase que diz o que a marca faz, igual à do briefing.",
+ "cores":{"fundo":"#F7F5F0","superficie":"#FFFFFF","texto":"#1F2937","suave":"#6B7280","linha":"#E5E1D8","escuro":"#1F2937","claro":"#F7F5F0","destaque":"#2563EB","texto_no_destaque":"#FFFFFF","texto_no_escuro":"#F7F5F0"},
+ "fontes":{"titulo":["Fraunces"],"texto":["Inter"]},"raio":10}
